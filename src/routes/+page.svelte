@@ -14,7 +14,7 @@
     <!-- Articles Section -->
     <section class="flex flex-col items-center justify-center pb-10 relative z-10">
         <div class="pb-20">
-            <h2 class="text-3xl font-bold text-white mb-12 text-center">Featured Articles</h2>
+            <h2 class="text-3xl font-bold text-white mb-12 text-center">Random Articles</h2>
             <div class="flex flex-wrap justify-center items-center gap-6 ">
                 <ArticleCard
                     title="Sample Article 1"
